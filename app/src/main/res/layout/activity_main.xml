@@ -84,6 +84,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="25dp"
         android:text="Enviar"
+        android:onClick="enviaDados"
         app:layout_constraintEnd_toEndOf="@+id/textView3"
         app:layout_constraintStart_toStartOf="@+id/textView3"
         app:layout_constraintTop_toBottomOf="@+id/textInputLayout4" />
